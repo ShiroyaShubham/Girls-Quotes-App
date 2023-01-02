@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Girls Quotes App</string>
+    <string name="girlsQuotes">Girls Quotes</string>
+    <string name="list">List</string>
+    <string name="save">save</string>
+    <string name="shareAs">Share As</string>
+    <string name="text">Text</string>
+    <string name="image">Image</string>
+    <string name="choosePhoto">Choose Photo</string>
+    <string name="gallery">Gallery</string>
+    <string name="backgrounds">Backgrounds</string>
+    <string name="quote">Let society call you rich before they call you married</string>
+</resources>
