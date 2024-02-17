@@ -18,7 +18,7 @@ This repository contains the code for a Girls Quote App, designed to inspire and
   <img src="Screenshots/HomeScreen.jpeg" width="250" alt="Screenshot 2" style="margin-right: 20px;">
   <img src="Screenshots/MutipleQuotes.jpeg" width="250" alt="Screenshot 3" style="margin-right: 20px;">
   <img src="Screenshots/Quotes.jpeg" width="250" alt="Screenshot 3" style="margin-right: 20px;">
-  <img src="Screenshots/Quotes1.jpg" width="250" alt="Screenshot 3" style="margin-right: 20px;">
+  <img src="Screenshots/Quotes1.jpeg" width="250" alt="Screenshot 3" style="margin-right: 20px;">
   <img src="Screenshots/Quotes2.jpeg" width="250" alt="Screenshot 3" style="margin-right: 20px;">
 </div>
 
